@@ -1,5 +1,7 @@
 
 # Google Professional Cloud Security Engineer Certification Resources
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AzwadFawadHasan.GCP_Professional_Cloud_Security_Engineer_Certification)
+![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AzwadFawadHasan.GCP_Professional_Cloud_Security_Engineer_Certificatio)
 
 Welcome to my repository! Here, you'll find the learning resources I used to prepare for the Google Professional Cloud Security Engineer Certification. I recently passed the exam and wanted to share my journey and resources with you all.
 
@@ -29,3 +31,6 @@ To get started, clone this repository and explore the available resources:
 
 ```bash
 git clone https://github.com/AzwadFawadHasan/GCP_Professional_Cloud_Security_Engineer_Certification.git
+
+
+
