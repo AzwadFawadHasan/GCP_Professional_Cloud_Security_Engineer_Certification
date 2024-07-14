@@ -21,7 +21,7 @@ On my [YouTube playlist](https://www.youtube.com/playlist?list=PLEbTo3ZKL1nJ2KT2
 ### Key Resources
 
 1. **1. Learning Modules**: These modules cover all the necessary topics for the certification. Make sure to review each one thoroughly.
-2. **Maciej Zachariasz's Learning Guide Videos**: These videos provide a comprehensive overview and deep dive into the key concepts required for the exam.
+2. **[YouTube playlist](https://www.youtube.com/playlist?list=PLEbTo3ZKL1nJ2KT2ZBk4lyo39G7DslbyE)**: These videos provide a comprehensive overview and deep dive into the key concepts required for the exam.
 3. Ammet's exam prep sheet.
 ## Getting Started
 
