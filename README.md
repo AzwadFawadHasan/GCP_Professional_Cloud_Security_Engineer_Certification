@@ -22,10 +22,10 @@ On my [YouTube playlist]([#](https://www.youtube.com/playlist?list=PLEbTo3ZKL1nJ
 
 1. **1. Learning Modules**: These modules cover all the necessary topics for the certification. Make sure to review each one thoroughly.
 2. **Maciej Zachariasz's Learning Guide Videos**: These videos provide a comprehensive overview and deep dive into the key concepts required for the exam.
-https://studio.youtube.com/playlist/PLEbTo3ZKL1nJ2KT2ZBk4lyo39G7DslbyE/edit
+3. Ammet's exam prep sheet.
 ## Getting Started
 
 To get started, clone this repository and explore the available resources:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/AzwadFawadHasan/GCP_Professional_Cloud_Security_Engineer_Certification.git
