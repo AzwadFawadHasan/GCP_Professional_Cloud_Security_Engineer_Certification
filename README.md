@@ -13,7 +13,7 @@ I found that going through the **learning modules** and briefly covering each to
 
 ### YouTube Channel
 
-On my [YouTube playlist]([#https://www.youtube.com/playlist?list=PLEbTo3ZKL1nJ2KT2ZBk4lyo39G7DslbyE]), you can find:
+On my [YouTube playlist](https://www.youtube.com/playlist?list=PLEbTo3ZKL1nJ2KT2ZBk4lyo39G7DslbyE), you can find:
 - Live streams of my study sessions going through each of the modules.
 - Short explanations and walkthroughs of each topic by Maciej Zachariasz
 - Insights and tips on how to effectively prepare 
